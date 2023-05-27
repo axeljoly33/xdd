@@ -1,0 +1,19 @@
+mod = [
+	"xdd"
+]
+
+package = [
+	"resource_packages/xdd/xdd"
+]
+
+lua = [
+	"scripts/mods/xdd/*"
+]
+
+unit = [
+    "units/*"
+]
+
+texture = [
+    "textures/*"
+]

@@ -1,0 +1,17 @@
+actors = [
+    {
+        enabled = true
+        mass = 0
+        name = "Plane"
+        node = "Plane"
+        shapes = [
+            {
+                material = "default"
+                shape = "Plane"
+                template = "default"
+                type = "mesh"
+            }
+        ]
+        template = "static"
+    }
+]
